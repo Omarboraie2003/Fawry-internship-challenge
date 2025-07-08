@@ -21,9 +21,6 @@ Simulate shipping and emailing via stub services
 Designed to be easily extensible for new product types
 
 Test Csses Output:
-
-![Screenshot 2025-07-09 020544](https://github.com/user-attachments/assets/4fa31afb-c1d1-44ef-8ff6-702025103b2c)
-![Screenshot 2025-07-09 020556](https://github.com/user-attachments/assets/d86b5e4a-1a04-4ffd-b69f-047ec0b550b1)
 ![Screenshot 2025-07-09 021157](https://github.com/user-attachments/assets/ab3742bc-47d8-40a7-be8d-125de50972ac)
 ![Screenshot 2025-07-09 021207](https://github.com/user-attachments/assets/930364f2-9134-45e4-bbfa-04c4f93307de)
 ![Screenshot 2025-07-09 021222](https://github.com/user-attachments/assets/a6cf8b95-db93-48e4-ac7f-98a6b7b7fe86)
